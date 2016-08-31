@@ -6,8 +6,6 @@ Copy the templates found in the /app directory as needed, and gulp using the `yo
 
 Or something.
 
-##Templates##
-
-###advertorial-1###
-
-![advertorial-1](https://bitbucket.org/nlk/html-landing-templates/raw/master/app/advertorial-1/screenshot.png)
+| Template | Screenshot |
+| -------- | ---------- |
+| advertorial-1 | ![advertorial-1](https://bitbucket.org/nlk/html-landing-templates/raw/master/app/advertorial-1/screenshot.png) |
